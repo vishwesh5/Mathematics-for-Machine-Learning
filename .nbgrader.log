@@ -1,0 +1,56 @@
+[NotebookApp | ERROR] Exception while loading config file /etc/jupyter/nbgrader_config.py
+    Traceback (most recent call last):
+      File "/home/hp/workfolder/python/anaconda3/lib/python3.6/site-packages/traitlets/config/application.py", line 562, in _load_config_files
+        config = loader.load_config()
+      File "/home/hp/workfolder/python/anaconda3/lib/python3.6/site-packages/traitlets/config/loader.py", line 457, in load_config
+        self._read_file_as_dict()
+      File "/home/hp/workfolder/python/anaconda3/lib/python3.6/site-packages/traitlets/config/loader.py", line 489, in _read_file_as_dict
+        py3compat.execfile(conf_filename, namespace)
+      File "/home/hp/workfolder/python/anaconda3/lib/python3.6/site-packages/ipython_genutils/py3compat.py", line 198, in execfile
+        exec(compiler(f.read(), fname, 'exec'), glob, loc)
+      File "/etc/jupyter/nbgrader_config.py", line 29
+        "C++14": "// your code here\nthrow new Error();"
+               ^
+    SyntaxError: invalid syntax
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] nteract extension loaded from /home/hp/workfolder/python/anaconda3/lib/python3.6/site-packages/nteract_on_jupyter
+[NotebookApp | INFO] Serving notebooks from local directory: /home/hp/workfolder/Mathematics-for-Machine-Learning
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=d2e421b6fdaf7e771128cfbf07e7c931602b132c271311a2
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=d2e421b6fdaf7e771128cfbf07e7c931602b132c271311a2
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: e6e359d2-5f98-4126-bac7-71619c51dd65
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e6e359d2-5f98-4126-bac7-71619c51dd65
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
