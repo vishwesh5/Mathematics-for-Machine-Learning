@@ -64,3 +64,9 @@
 [NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
 [NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
 [NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Saving file at /Chapter 2- Linear Algebra.ipynb
+[NotebookApp | INFO] Starting buffering for e6e359d2-5f98-4126-bac7-71619c51dd65:f322753e192847fc94812d6f2141aa1f
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: e6e359d2-5f98-4126-bac7-71619c51dd65
